@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=header&text=Lubswer&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=55&descSize=16"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=header&text=Lubswer&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=55&descSize=16"/>
 
 <div align="center">
 
@@ -62,6 +62,6 @@ No dudes en contactarme por **[LinkedIn](https://www.linkedin.com/in/lubswer-cat
 
 > *"Go a little further"* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 
 </div>
