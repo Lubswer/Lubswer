@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Tecnología Superior en Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript moderno**, mientras consolido bases sólidas en **programación orientada a objetos** y **estructuras de datos**.
+Soy estudiante de **Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript moderno**, mientras consolido bases sólidas en **programación orientada a objetos** y **estructuras de datos**.
 
 Me interesa construir proyectos bien estructurados, escribir **código limpio** y seguir creciendo hacia un perfil profesional sólido.
 
