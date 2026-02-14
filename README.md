@@ -24,7 +24,7 @@ Me interesa construir proyectos bien estructurados, escribir **código limpio** 
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Lenguajes** | JavaScript (ES6+), Java, Python (en aprendizaje) |
+| **Lenguajes** | JavaScript (ES6+), Java, Python enfoque IA (en aprendizaje) |
 | **Frontend** | React (componentes funcionales, hooks, consumo de APIs), HTML5, CSS3 |
 | **Backend** | Node.js (básico) |
 | **Herramientas** | Git & GitHub, VS Code, Postman |
@@ -60,6 +60,6 @@ No dudes en contactarme por **[LinkedIn](https://www.linkedin.com/in/lubswer-cat
 
 > *"Go a little further"* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 
 </div>
