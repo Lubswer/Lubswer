@@ -1,5 +1,6 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=header&text=Lubswer&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=55&descSize=16"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=header&text=Lubswer&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=55&descSize=16" width="100%"/>
+</div>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubswer-catag%C3%B1a-50bb58232/)
