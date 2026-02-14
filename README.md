@@ -34,7 +34,7 @@
 ## 📌 Proyectos Destacados
 
 ### 🌐 Desarrollo Web
-- **[Blog](https://github.com/Lubswer/Blog)** - Página de información profesional tipo Lading page
+- **[Blog](https://github.com/Lubswer/Blog)** - Página de información profesional tipo Landing page
 - **[Peque-oProyectoHtmlyCss](https://github.com/Lubswer/Peque-oProyectoHtmlyCss)** - Mini proyecto de finalización de curso online
 
 ### ☕ Java / POO
