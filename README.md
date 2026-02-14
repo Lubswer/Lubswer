@@ -1,5 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lubswer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=header&text=Lubswer&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Ecuador&descAlignY=55&descSize=16"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubswer-catag%C3%B1a-50bb58232/)
