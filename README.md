@@ -6,7 +6,8 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lubswer)
 &nbsp;&nbsp;
-[![English B1](https://img.shields.io/badge/English-B1_Intermediate-1E90FF?style=flat&logo=readthedocs&logoColor=white)](https://aps.cec-epn.edu.ec/diplomas/2025/LINGUISTICA/4/diploma_271893_60818-signed.pdf)
+[![English B1](https://img.shields.io/badge/-English%20B1-1E90FF?style=flat&logo=linkedin&logoColor=white)](https://aps.cec-epn.edu.ec/diplomas/2025/LINGUISTICA/4/diploma_271893_60818-signed.pdf)
+
 
 
 </div>
