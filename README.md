@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy estudiante de **Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript moderno**, mientras consolido bases sólidas en **programación orientada a objetos** y **estructuras de datos**.
 
@@ -23,7 +23,7 @@ Me interesa construir proyectos bien estructurados, escribir **código limpio** 
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 | Categoría | Tecnologías |
 |-----------|-------------|
@@ -34,12 +34,12 @@ Me interesa construir proyectos bien estructurados, escribir **código limpio** 
 
 ---
 
-## 🎯 En qué estoy enfocado
+##  En qué estoy enfocado
 
-- 🔭 **Desarrollando proyectos con React** – Practicando componentes, hooks y consumo de APIs
-- 📚 **Reforzando fundamentos** – Estructuras de datos y arquitectura web
-- 🎯 **Preparándome para prácticas profesionales** – Construyendo mi portafolio
-- 🌎 **Mejorando mi inglés** – Actualmente nivel B1 (Intermediate)
+-  **Desarrollando proyectos con React** – Practicando componentes, hooks y consumo de APIs
+-  **Reforzando fundamentos** – Estructuras de datos y arquitectura web
+-  **Preparándome para prácticas profesionales** – Construyendo mi portafolio
+-  **Mejorando mi inglés** – Actualmente nivel B1 (Intermediate)
 
 ---
 
@@ -54,14 +54,14 @@ Me interesa construir proyectos bien estructurados, escribir **código limpio** 
 
 <div align="center">
 
-### 📫 ¿Conectamos?
+###  ¿Conectamos?
 
 Estoy abierto a oportunidades de prácticas, colaboraciones en proyectos y networking.  
 No dudes en contactarme por **[LinkedIn](https://www.linkedin.com/in/lubswer-catag%C3%B1a-50bb58232/)**.
 
 <br/>
 
-> *"Go a little further"* 🚀
+> *"Go a little further"* 
 
 
 
