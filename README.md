@@ -34,7 +34,7 @@ Me interesa construir proyectos modernos, escribir **código limpio** y seguir c
 |-----------|-------------|
 | **Lenguajes** | JavaScript, Java, Python enfoque IA (en aprendizaje) |
 | **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Node.js |
+| **Backend** | Node.js, Express.js, APIs |
 | **Herramientas** | Git & GitHub, Antigravity, Postman |
 
 ---
