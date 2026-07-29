@@ -17,30 +17,27 @@
 
 ##  Sobre mí
 
-Soy estudiante de **Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript moderno**, mientras consolido bases sólidas en **programación orientada a objetos** y **estructuras de datos**.
+Soy estudiante de **Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript**, mientras consolido bases sólidas en **Inteligencia Artificial**.
 
-Me interesa construir proyectos bien estructurados, escribir **código limpio** y seguir creciendo hacia un perfil profesional sólido.
+Me interesa construir proyectos modernos, escribir **código limpio** y seguir creciendo hacia un perfil profesional sólido.
 
+---
+
+-  **Proyectos** – Construcción web, soluciones con IA y aprendiendo sobre chatBots que ayuden a automatizar tareas 
+-  **Inglés** – Actualmente nivel B1 (Intermediate)
+-  **Experiencia en QA** – Brindé mi ayuda al equipo de Sidevox S.A. en el área de QA (ChatBots, CRM, Callcenter)
 ---
 
 ##  Tecnologías y Herramientas
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Lenguajes** | JavaScript (ES6+), Java, Python enfoque IA (en aprendizaje) |
-| **Frontend** | React (componentes funcionales, hooks, consumo de APIs), HTML5, CSS3 |
-| **Backend** | Node.js (básico) |
-| **Herramientas** | Git & GitHub, VS Code, Postman |
+| **Lenguajes** | JavaScript, Java, Python enfoque IA (en aprendizaje) |
+| **Frontend** | React, HTML5, CSS3 |
+| **Backend** | Node.js |
+| **Herramientas** | Git & GitHub, Antigravity, Postman |
 
 ---
 
-##  En qué estoy enfocado
-
--  **Desarrollando proyectos con React** – Practicando componentes, hooks y consumo de APIs
--  **Reforzando fundamentos** – Estructuras de datos y arquitectura web
--  **Preparándome para prácticas profesionales** – Construyendo mi portafolio
--  **Mejorando mi inglés** – Actualmente nivel B1 (Intermediate)
-
----
 
 </div>
