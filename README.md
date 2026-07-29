@@ -43,27 +43,4 @@ Me interesa construir proyectos bien estructurados, escribir **código limpio** 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lubswer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubswer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-<div align="center">
-
-###  ¿Conectamos?
-
-Estoy abierto a oportunidades de prácticas, colaboraciones en proyectos y networking.  
-No dudes en contactarme por **[LinkedIn](https://www.linkedin.com/in/lubswer-catag%C3%B1a-50bb58232/)**.
-
-<br/>
-
- *"Go a little further"* 
----
-
-
-
 </div>
