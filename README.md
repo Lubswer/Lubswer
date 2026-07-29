@@ -23,7 +23,7 @@ Me interesa construir proyectos modernos, escribir **código limpio** y seguir c
 
 ---
 
--  **Proyectos** – Construcción web, soluciones con IA y aprendiendo sobre chatBots que ayuden a automatizar tareas 
+-  **Proyectos** – Construcción web, soluciones con IA y aprendiendo sobre chatBots que ayuden en la automatización de tareas 
 -  **Inglés** – Actualmente nivel B1 (Intermediate)
 -  **Experiencia en QA** – Brindé mi ayuda al equipo de Sidevox S.A. en el área de QA (ChatBots, CRM, Callcenter)
 ---
