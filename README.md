@@ -17,7 +17,7 @@
 
 ##  Sobre mí
 
-Soy estudiante de **Desarrollo de Software** en Ecuador. Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript**, mientras consolido bases sólidas en **Inteligencia Artificial**.
+Soy estudiante de **Desarrollo de Software** en la Escuela Politécnica Nacional (EPN). Actualmente me encuentro fortaleciendo mis habilidades en **desarrollo frontend con React y JavaScript**, mientras consolido bases sólidas en **Inteligencia Artificial**.
 
 Me interesa construir proyectos modernos, escribir **código limpio** y seguir creciendo hacia un perfil profesional sólido.
 
